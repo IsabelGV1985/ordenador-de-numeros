@@ -1,1 +1,0 @@
-# ordenador-de-numeros
